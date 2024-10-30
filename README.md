@@ -7,10 +7,11 @@
 
 ### Languages I Code in : 
 <div style="display: flex; gap: 30px; align-items: center;">
-    <img height="50px" width="50px"  src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-    <img height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-    <img height="50px" width="50px" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png">
-    <img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png">
+  <img height="50px" width="50px" style="margin-right: 15px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
+<img height="50px" width="50px" style="margin-right: 15px;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+<img height="50px" width="50px" style="margin-right: 15px;" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png">
+<img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png">
+
 </div>
 
 
