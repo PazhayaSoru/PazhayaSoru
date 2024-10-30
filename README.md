@@ -2,11 +2,13 @@
 ---
 ### Pre-final year Computer Science Grad
 <img align="right" width='370' height='270' src='https://media1.tenor.com/m/41I-iMyClCgAAAAd/programmer-programming.gif'>
- 🌱 I’m currently learning DSA, Deep Learning and Web Development
- 👯 Very much interested to Contribute to Open Source
- 🔭 I’m currently working on Web Component Detection System
+ 🌱 I’m currently learning DSA, Deep Learning and Web Development <br>
+ 👯 Very much interested to Contribute to Open Source <br>
+ 🔭 I’m currently working on Web Component Detection System <br>
 
  <hr/>
+ <br>
+ <br>
  <br>
  <br>
  
