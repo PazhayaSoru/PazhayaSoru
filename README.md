@@ -5,13 +5,17 @@
 - 🌱 I’m currently learning DSA, Deep Learning and Web Development
 - 👯 Very much interested to Contribute to Open Source
 
-### Languages I Code in : 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px" height="50px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px" height="50px">&nbsp;&nbsp;<img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png" width="50px" height="50px">&nbsp;&nbsp;<img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" width="50px" height="50px">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" width="50px" height="50px">
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-
-
-### Backend Technologies I Use :
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px" height="50px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px" height="50px">&nbsp;&nbsp;<img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png" width="50px" height="50px">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" width="50px" height="50px">
+<br/>
+<hr/>
 <!--
 **PazhayaSoru/PazhayaSoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
