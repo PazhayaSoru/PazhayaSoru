@@ -1,10 +1,12 @@
 #  Aadhithya Sendhil
 ---
 ### Pre-final year Computer Science Grad
+<div>
 <img align="right" width='370' height='270' src='https://media1.tenor.com/m/41I-iMyClCgAAAAd/programmer-programming.gif'>
  🌱 I’m currently learning DSA, Deep Learning and Web Development <br>
  👯 Very much interested to Contribute to Open Source <br>
  🔭 I’m currently working on Web Component Detection System <br>
+ </div>
 
  <hr/>
  <br>
@@ -16,7 +18,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,c,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,python,c,java,mysql,flask" /><br>
 </div>
 
 <br/>
