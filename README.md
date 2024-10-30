@@ -6,10 +6,7 @@
 - 👯 Very much interested to Contribute to Open Source
 
 ### Languages I Code in : 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px" height="50px" style="padding-right: 15px;">
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px" height="50px" style="padding-right: 15px;">
-<img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png" width="50px" height="50px" style="padding-right: 15px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" width="50px" height="50px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px" height="50px" style="padding-right: 15px;"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px" height="50px" style="padding-right: 15px;"><img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png" width="50px" height="50px" style="padding-right: 15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" width="50px" height="50px">
 
 
 
