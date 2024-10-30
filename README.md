@@ -6,9 +6,9 @@
 - 👯 Very much interested to Contribute to Open Source
 
 ### Languages I Code in : 
-<img height='50px' width='50px' src='https://icons8.com/icon/13441/python'>
-<img height='50px' width='50px' src='https://icons8.com/icon/13679/java'>
-<img height='50px' width='50px' src='https://icons8.com/icon/40670/c-programming'>
+<img height='50px' width='50px' src='https://cdn-icons-png.flaticon.com/512/5968/5968350.png'>
+<img height='50px' width='50px' src='https://cdn-icons-png.flaticon.com/512/226/226777.png'>
+<img height='50px' width='50px' src='https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png'>
 <img height='50px' width='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png'>
 
 
