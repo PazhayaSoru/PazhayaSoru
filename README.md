@@ -1,4 +1,4 @@
-#  Aadhithya Sendhil
+#  Aadhithya Sendhil Manian
 ---
 ### Pre-final year Computer Science Grad
 <div>
