@@ -1,6 +1,6 @@
 #  Aadhithya Sendhil Manian
 ---
-### Pre-final year Computer Science Grad
+### Final year Computer Science Grad
 <div>
 
  🌱 I’m currently learning DSA, Deep Learning, Agentic AI <br>
