@@ -3,7 +3,7 @@
 ### Final year Computer Science Grad
 <div>
 
- 🌱 I’m currently learning DSA, Deep Learning, Agentic AI <br>
+ 🌱 I’m currently learning Deep Learning, Agentic AI <br>
  👯 Very much interested to Contribute to Open Source <br>
  🔭 I’m currently working on Web Component Detection System <br>
  </div> 
